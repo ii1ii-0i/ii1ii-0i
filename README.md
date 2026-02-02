@@ -24,3 +24,6 @@ Currently learning through self-taught practical projects and aiming to become a
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ii1ii-0i.ii1ii-0i&"  />
+</div>
