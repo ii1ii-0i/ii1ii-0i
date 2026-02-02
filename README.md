@@ -15,11 +15,6 @@ Currently learning through self-taught practical projects and aiming to become a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
 </div>
 
-<h3>Activity</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ii1ii-0i&show_icons=true"/>
-</p>
-
 <h3>Contact</h3>
 <div>
   <a href="mailto:rashaalhilali1@gmail.com">
