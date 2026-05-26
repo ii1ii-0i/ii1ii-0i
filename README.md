@@ -1,11 +1,5 @@
 <h2 align="left">Hi 👋! I'm Rasha</h2>
 
-<p>
-Front-End Developer with basic knowledge of HTML, CSS, and JavaScript.<br>
-Studied Web & Mobile App Development at KKU.<br>
-Currently learning through self-taught practical projects and aiming to become a Full-Stack Developer.
-</p>
-
 <h3>Languages & Tools</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
